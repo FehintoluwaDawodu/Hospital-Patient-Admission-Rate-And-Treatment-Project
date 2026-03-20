@@ -24,4 +24,4 @@ The analysis aims to determine the frequency and distribution of various medical
 - Enhance bed and discharge planning.
 
 ## Preview
-![Dashboard_Screenshot](<img width="4894" height="238" alt="image" src="https://github.com/user-attachments/assets/c4b67a10-8b24-4c50-8f3d-74c5a4debff4" />)
+![Dashboard_Screenshot](https://github.com/FehintoluwaDawodu/Hospital-Patient-Admission-Rate-And-Treatment-Project/blob/main/Screenshot%20(8)%20(1).png)
